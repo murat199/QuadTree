@@ -1,0 +1,19 @@
+c:\users\murat_karakoc\documents\visual studio 2013\Projects\Prolab2_Proje2_Application\Prolab2_Proje2_Application\bin\Debug\Prolab2_Proje2_Application.exe.config
+C:\Users\Murat_Karakoc\Documents\Visual Studio 2013\Projects\Prolab2_Proje2_Application\Prolab2_Proje2_Application\bin\Debug\Prolab2_Proje2_Application.exe
+C:\Users\Murat_Karakoc\Documents\Visual Studio 2013\Projects\Prolab2_Proje2_Application\Prolab2_Proje2_Application\bin\Debug\Prolab2_Proje2_Application.pdb
+C:\Users\Murat_Karakoc\Documents\Visual Studio 2013\Projects\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.csprojResolveAssemblyReference.cache
+C:\Users\Murat_Karakoc\Documents\Visual Studio 2013\Projects\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.FormHome.resources
+C:\Users\Murat_Karakoc\Documents\Visual Studio 2013\Projects\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.Properties.Resources.resources
+C:\Users\Murat_Karakoc\Documents\Visual Studio 2013\Projects\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.csproj.GenerateResource.Cache
+C:\Users\Murat_Karakoc\Documents\Visual Studio 2013\Projects\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.exe
+C:\Users\Murat_Karakoc\Documents\Visual Studio 2013\Projects\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.pdb
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\bin\Debug\Prolab2_Proje2_Application.exe.config
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\bin\Debug\Prolab2_Proje2_Application.exe
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\bin\Debug\Prolab2_Proje2_Application.pdb
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.csprojResolveAssemblyReference.cache
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.FormHome.resources
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.Properties.Resources.resources
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.csproj.GenerateResource.Cache
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.csproj.CoreCompileInputs.cache
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.exe
+D:\Univercity\2.sinif\2.dönem\dersler\Prolab\proje2\prolab-proje2\proje\Prolab2_Proje2_Application\Prolab2_Proje2_Application\Prolab2_Proje2_Application\obj\Debug\Prolab2_Proje2_Application.pdb
